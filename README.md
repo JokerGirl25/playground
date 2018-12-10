@@ -1,6 +1,10 @@
 uzzuui
 
-cöanpk
+int main ()
+
+{
+  printf("Der Moritz ist ein Rhinozeros")
+}
 l
 c
 a
